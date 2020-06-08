@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Baby Shark do-do-do. Lets go.
 Use the left arrow to go back!
